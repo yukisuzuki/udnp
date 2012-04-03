@@ -3,7 +3,7 @@ var bunny  =1;
 var month     =0;
 var sum    =0;
 var a=0;
-while(month < 12){
+while(month < 24){
 	
 
 	var b = rabbit;
